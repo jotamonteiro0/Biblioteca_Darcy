@@ -1,4 +1,4 @@
-# 📚 Sistema Bibliotecário Simples — Biblioteca Darcy
+# Sistema Bibliotecário Simples — Biblioteca Darcy
 
 Sistema de gerenciamento de biblioteca desenvolvido em linguagem C, com persistência de dados em arquivos `.txt`. Projeto acadêmico da disciplina de Algoritmos e Programação.
 
